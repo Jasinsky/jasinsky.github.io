@@ -1,5 +1,11 @@
-Here you can say lots of fun things about your site.
+Hi! My name is Daniel Jasiński.
+I am an embedded systems firmware engineer.
 
-Maybe say a some things about yourself.
+Skills:
 
-Or maybe what you plan to blog about.
+- Embedded development C/C++
+- System integration
+- Architecture selection
+- Hardware abstracting
+- PCB design
+- Device drivers
