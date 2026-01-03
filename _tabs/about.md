@@ -4,17 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Daniel Jasinski
-
-**Lead Software Engineer** | Szczecin, Poland
-
-📧 jasinskidaniel95szcz@gmail.com | 📱 +48 793 235 451 | 🌐 [www.jasinsky.me](https://www.jasinsky.me) | 💼 [LinkedIn](https://linkedin.com/in/jasinski) | 🐙 [GitHub](https://github.com/Jasinsky)
-
----
-
 ## Summary
 
-Lead Software Engineer / Embedded Systems Architect with 10+ years of experience. Designing and implementing bare-metal and RTOS-based embedded systems in C/C++ and Python, from low-level drivers to system architecture. Industry experience: medical, automotive, aerospace, marine.
+My name is Daniel Jasinski.
+
+I am a Lead Software Engineer / Embedded Systems Architect with 10+ years of experience. Designing and implementing bare-metal and RTOS-based embedded systems in C/C++ and Python, from low-level drivers to system architecture. Industry experience: medical, automotive, aerospace, marine.
 
 Helping teams deliver reliable, production-ready embedded devices.
 
