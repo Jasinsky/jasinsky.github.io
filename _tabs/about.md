@@ -70,6 +70,8 @@ Studied control theory, signal processing, embedded programming, and electronics
 
 ## Skills
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,windows,python,matlab,eclipse,git,gmail,latex,raspberrypi,vscode)](https://skillicons.dev)
+
 **Programming Languages**
 - C
 - C++ (embedded friendly)
